@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 /**
- * Lecture 5: Control Flow - Code Examples
+ * Lecture 6: Control Flow - Code Examples
  * Topics covered: if-else statements, logical operators, switch statements, 
  * for loops, foreach loops, while loops, do-while loops, nested loops
  */
-public class Lecture5Examples {
+public class Lecture6Examples {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         
