@@ -9,7 +9,7 @@ public class Lecture6Examples {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         
-        System.out.println("===== LECTURE 5: CONTROL FLOW EXAMPLES =====\n");
+        System.out.println("===== LECTURE 6: CONTROL FLOW EXAMPLES =====\n");
         
         // Uncomment the example you want to run:
         
